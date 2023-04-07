@@ -1,0 +1,25 @@
+body {
+    width: 70%;
+    margin: auto; 
+}
+
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+h1, h2 {
+    font-size: 32px;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+figure {
+    margin-top: 0px;
+    float: right;
+    text-align: left;
+    font-style: italic;
+}
